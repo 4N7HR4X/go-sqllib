@@ -6,6 +6,10 @@ Maintain a library of prepared SQL statements (\*sql.Stmt)
 
 [![GoDoc](https://godoc.org/github.com/lestrrat/go-sqllib?status.svg)](https://godoc.org/github.com/lestrrat/go-sqllib)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/sqllib](https://github.com/lestrrat-go/sqllib). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # SYNOPSIS
 
 ```go
